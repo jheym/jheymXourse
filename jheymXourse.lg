@@ -1,4 +1,4 @@
-htfcss: cmtt font-family: monospace;
+htfcss: cmtt font-family: monospace,monospace;
 File: jheymXourse.html
 File: jheymXourse.tmp
 Font_Css("4"): .small-caps{font-variant: small-caps; }

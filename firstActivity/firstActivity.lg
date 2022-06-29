@@ -1,4 +1,4 @@
-htfcss: cmtt font-family: monospace;
+htfcss: cmtt font-family: monospace,monospace;
 File: firstActivity.html
 File: firstActivity.tmp
 Font_Css("4"): .small-caps{font-variant: small-caps; }

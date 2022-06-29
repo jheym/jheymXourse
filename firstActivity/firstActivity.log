@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2022.2.23)  10 MAR 2022 14:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2022.4.12)  29 JUN 2022 16:37
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -10,7 +10,7 @@ documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
  tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
 \HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode ximera,charset=utf-8,-css.a
 .b.c.\input  firstActivity.tex
-(./firstActivity.tex
+ (./firstActivity.tex
 (/home/auxwsl/texmf/tex/latex/ximeraLatex/ximeraLatex/ximera.cls
 Document Class: ximera 2018/10/28 v1.00 Simultaneously write print and online i
 nteractive materials
@@ -22,61 +22,60 @@ nteractive materials
 .::'   '::. :: :::   ':::'   ::: '::::::::: ::    '::.::'     ':: 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
 )
 (/usr/share/texlive/texmf-dist/tex/latex/cancel/cancel.sty
 Package: cancel 2013/04/12 v2.2 Cancel math terms
 )
 (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2011/09/28 v3.5.2 Customized lists
+Package: enumitem 2019/06/20 v3.9 Customized lists
 \enitkv@toks@=\toks14
-\labelindent=\skip43
-\enit@outerparindent=\dimen103
+\labelindent=\skip49
+\enit@outerparindent=\dimen135
 \enit@toks=\toks15
-\enit@inbox=\box26
-\enitdp@description=\count87
+\enit@inbox=\box45
+\enit@count@id=\count175
+\enitdp@description=\count176
 )
 (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box27
-\beforetitleunit=\skip44
-\aftertitleunit=\skip45
-\ttl@plus=\dimen104
-\ttl@minus=\dimen105
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box46
+\beforetitleunit=\skip50
+\aftertitleunit=\skip51
+\ttl@plus=\dimen136
+\ttl@minus=\dimen137
 \ttl@toksa=\toks16
-\titlewidth=\dimen106
-\titlewidthlast=\dimen107
-\titlewidthfirst=\dimen108
+\titlewidth=\dimen138
+\titlewidthlast=\dimen139
+\titlewidthfirst=\dimen140
 
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/ttlps.def
-File: ttlps.def 2016/03/15
-))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titleps.sty))
 (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
-Package: titletoc 2011/12/15 v1.6 TOC entries
-\ttl@leftsep=\dimen109
+Package: titletoc 2019/10/16 v2.13 TOC entries
+\ttl@leftsep=\dimen141
 )
 (/usr/share/texlive/texmf-dist/tex/latex/titling/titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
-\thanksmarkwidth=\skip46
-\thanksmargin=\skip47
-\droptitle=\skip48
+\thanksmarkwidth=\skip52
+\thanksmargin=\skip53
+\droptitle=\skip54
 )
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip10
+\Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
@@ -91,20 +90,22 @@ Package xcolor Info: Driver file: dvips.def on input line 225.
 File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 )
 (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
-\col@sep=\dimen110
-\extrarowheight=\dimen111
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen142
+\ar@mcellbox=\box47
+\extrarowheight=\dimen143
 \NC@list=\toks17
-\extratabsurround=\skip49
-\backup@length=\skip50
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box48
 )
 \everycr=\toks18
-\minrowclearance=\skip51
+\minrowclearance=\skip57
 )
-\rownum=\count88
+\rownum=\count177
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `RGB' extended on input line 1364.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
@@ -119,30 +120,31 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks19
-\pgfutil@tempdima=\dimen112
-\pgfutil@tempdimb=\dimen113
+\pgfutil@tempdima=\dimen144
+\pgfutil@tempdimb=\dimen145
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
 ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box28
+\pgfutil@abb=\box49
 (/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
 ))
-Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
 
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks20
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
@@ -150,14 +152,14 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 99.
+Package graphics Info: Driver file: dvips.def on input line 105.
 )
-\Gin@req@height=\dimen114
-\Gin@req@width=\dimen115
+\Gin@req@height=\dimen146
+\Gin@req@width=\dimen147
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks21
@@ -167,63 +169,68 @@ Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 ex
 \pgfkeys@tmptoks=\toks23
 ))
-\pgf@x=\dimen116
-\pgf@y=\dimen117
-\pgf@xa=\dimen118
-\pgf@ya=\dimen119
-\pgf@xb=\dimen120
-\pgf@yb=\dimen121
-\pgf@xc=\dimen122
-\pgf@yc=\dimen123
+\pgf@x=\dimen148
+\pgf@y=\dimen149
+\pgf@xa=\dimen150
+\pgf@ya=\dimen151
+\pgf@xb=\dimen152
+\pgf@yb=\dimen153
+\pgf@xc=\dimen154
+\pgf@yc=\dimen155
+\pgf@xd=\dimen156
+\pgf@yd=\dimen157
 \w@pgf@writea=\write3
-\r@pgf@reada=\read1
-\c@pgf@counta=\count89
-\c@pgf@countb=\count90
-\c@pgf@countc=\count91
-\c@pgf@countd=\count92
+\r@pgf@reada=\read2
+\c@pgf@counta=\count178
+\c@pgf@countb=\count179
+\c@pgf@countc=\count180
+\c@pgf@countd=\count181
 \t@pgf@toka=\toks24
 \t@pgf@tokb=\toks25
 \t@pgf@tokc=\toks26
+\pgf@sys@id@count=\count182
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
 )
 Driver file for pgf: pgfsys-tex4ht.def
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-tex4ht.def
-File: pgfsys-tex4ht.def 2013/08/06  (rcs-revision 1.25)
+File: pgfsys-tex4ht.def 2020/01/08 v3.1.5b (3.1.5b)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-svg.de
 f
-File: pgfsys-common-svg.def 2013/08/28  (rcs-revision 1.24)
-\pgf@sys@svg@objectcount=\count93
-\pgf@sys@svg@scopecount=\count94
+File: pgfsys-common-svg.def 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@sys@svg@objectcount=\count183
+\pgf@sys@svg@scopecount=\count184
+\pgf@sys@svg@type@count=\count185
+\pgf@sys@svg@canvascount=\count186
 )
-\pgf@sys@svg@picnum=\count95
-\pgf@sys@svg@nodenum=\count96
-\pgfsys@foreignobject@Box=\box29
-\pgf@s=\dimen124
-\pgf@t=\dimen125
+\pgf@sys@svg@picnum=\count187
+\pgf@sys@svg@nodenum=\count188
+\pgfsys@foreignobject@Box=\box50
+\pgf@s=\dimen158
+\pgf@t=\dimen159
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
 tex
-File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count97
-\pgfsyssoftpath@bigbuffer@items=\count98
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count189
+\pgfsyssoftpath@bigbuffer@items=\count190
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
 tex
-File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen126
-\pgfmath@count=\count99
-\pgfmath@box=\box30
+\pgfmath@dimen=\dimen160
+\pgfmath@count=\count191
+\pgfmath@box=\box51
 \pgfmath@toks=\toks27
 \pgfmath@stack@operand=\toks28
 \pgfmath@stack@operation=\toks29
@@ -246,176 +253,183 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count100
+\c@pgfmathroundto@lastzeros=\count192
 ))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
 x
-File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen127
-\pgf@picmaxx=\dimen128
-\pgf@picminy=\dimen129
-\pgf@picmaxy=\dimen130
-\pgf@pathminx=\dimen131
-\pgf@pathmaxx=\dimen132
-\pgf@pathminy=\dimen133
-\pgf@pathmaxy=\dimen134
-\pgf@xx=\dimen135
-\pgf@xy=\dimen136
-\pgf@yx=\dimen137
-\pgf@yy=\dimen138
-\pgf@zx=\dimen139
-\pgf@zy=\dimen140
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen161
+\pgf@picmaxx=\dimen162
+\pgf@picminy=\dimen163
+\pgf@picmaxy=\dimen164
+\pgf@pathminx=\dimen165
+\pgf@pathmaxx=\dimen166
+\pgf@pathminy=\dimen167
+\pgf@pathmaxy=\dimen168
+\pgf@xx=\dimen169
+\pgf@xy=\dimen170
+\pgf@yx=\dimen171
+\pgf@yy=\dimen172
+\pgf@zx=\dimen173
+\pgf@zy=\dimen174
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
 code.tex
-File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen141
-\pgf@path@lasty=\dimen142
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen175
+\pgf@path@lasty=\dimen176
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
 .tex
-File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen143
-\pgf@shorten@start@additional=\dimen144
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen177
+\pgf@shorten@start@additional=\dimen178
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
 x
-File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box31
-\pgf@hbox=\box32
-\pgf@layerbox@main=\box33
-\pgf@picture@serial@count=\count101
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box52
+\pgf@hbox=\box53
+\pgf@layerbox@main=\box54
+\pgf@picture@serial@count=\count193
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
 ode.tex
-File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen145
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen179
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
 s.code.tex
-File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen146
-\pgf@pt@y=\dimen147
-\pgf@pt@temp=\dimen148
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen180
+\pgf@pt@y=\dimen181
+\pgf@pt@temp=\dimen182
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
 ex
-File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
 .code.tex
-File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
 x
-File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen149
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen183
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen150
-\pgf@sys@shading@range@num=\count102
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen184
+\pgf@sys@shading@range@num=\count194
+\pgf@shadingcount=\count195
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
 tex
-File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box34
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box55
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
 x
-File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
 ode.tex
-File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
 tex
-File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box35
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box56
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
 .sty
-Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen151
-\pgf@nodesepend=\dimen152
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen185
+\pgf@nodesepend=\dimen186
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
 .sty
-Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
 )) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen153
-\pgffor@skip=\dimen154
+\pgffor@iter=\dimen187
+\pgffor@skip=\dimen188
 \pgffor@stack=\toks30
 \pgffor@toks=\toks31
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
 .code.tex
-File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count103
-\pgfplotmarksize=\dimen155
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count196
+\pgfplotmarksize=\dimen189
 )
-\tikz@lastx=\dimen156
-\tikz@lasty=\dimen157
-\tikz@lastxsaved=\dimen158
-\tikz@lastysaved=\dimen159
-\tikzleveldistance=\dimen160
-\tikzsiblingdistance=\dimen161
-\tikz@figbox=\box36
-\tikz@figbox@bg=\box37
-\tikz@tempbox=\box38
-\tikz@tempbox@bg=\box39
-\tikztreelevel=\count104
-\tikznumberofchildren=\count105
-\tikznumberofcurrentchild=\count106
-\tikz@fig@count=\count107
+\tikz@lastx=\dimen190
+\tikz@lasty=\dimen191
+\tikz@lastxsaved=\dimen192
+\tikz@lastysaved=\dimen193
+\tikz@lastmovetox=\dimen194
+\tikz@lastmovetoy=\dimen195
+\tikzleveldistance=\dimen196
+\tikzsiblingdistance=\dimen197
+\tikz@figbox=\box57
+\tikz@figbox@bg=\box58
+\tikz@tempbox=\box59
+\tikz@tempbox@bg=\box60
+\tikztreelevel=\count197
+\tikznumberofchildren=\count198
+\tikznumberofcurrentchild=\count199
+\tikz@fig@count=\count266
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count108
-\pgfmatrixcurrentcolumn=\count109
-\pgf@matrix@numberofcolumns=\count110
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count267
+\pgfmatrixcurrentcolumn=\count268
+\pgf@matrix@numberofcolumns=\count269
 )
-\tikz@expandcount=\count111
+\tikz@expandcount=\count270
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/pgfplots/pgfplots.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
-Package: pgfplots 2017/06/05 v1.15 Data Visualization (1.15)
+Package: pgfplots 2018/03/28 v1.16 Data Visualization (1.16)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
 \t@pgfplots@toka=\toks32
 \t@pgfplots@tokb=\toks33
 \t@pgfplots@tokc=\toks34
-\pgfplots@tmpa=\dimen162
-\c@pgfplots@coordindex=\count112
-\c@pgfplots@scanlineindex=\count113
+\pgfplots@tmpa=\dimen198
+\c@pgfplots@coordindex=\count271
+\c@pgfplots@scanlineindex=\count272
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code
 .tex))
@@ -424,14 +438,6 @@ ex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
 gfsupp_loader.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
-)
-Package pgfplots: loading complementary arithmetics for your pgf version...
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
-gfsupp_pgflibraryfpu.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
-gfsupp_pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count114
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotslists
@@ -440,13 +446,13 @@ tructure.code.tex)
 tructureext.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray
 .code.tex
-\c@pgfplotsarray@tmp=\count115
+\c@pgfplotsarray@tmp=\count273
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatri
 x.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshare
 d.code.tex
-\c@pgfplotstable@counta=\count116
+\c@pgfplotstable@counta=\count274
 \t@pgfplotstable@a=\toks35
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque
@@ -459,7 +465,7 @@ de.tex))
 .tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.sur
 fshading.code.tex
-\c@pgfplotslibrarysurf@no=\count117
+\c@pgfplotslibrarysurf@no=\count275
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.
 tex
@@ -484,16 +490,16 @@ e.tex)
 zlibrarydecorations.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.cod
 e.tex
-\pgfdecoratedcompleteddistance=\dimen163
-\pgfdecoratedremainingdistance=\dimen164
-\pgfdecoratedinputsegmentcompleteddistance=\dimen165
-\pgfdecoratedinputsegmentremainingdistance=\dimen166
-\pgf@decorate@distancetomove=\dimen167
-\pgf@decorate@repeatstate=\count118
-\pgfdecorationsegmentamplitude=\dimen168
-\pgfdecorationsegmentlength=\dimen169
+\pgfdecoratedcompleteddistance=\dimen199
+\pgfdecoratedremainingdistance=\dimen256
+\pgfdecoratedinputsegmentcompleteddistance=\dimen257
+\pgfdecoratedinputsegmentremainingdistance=\dimen258
+\pgf@decorate@distancetomove=\dimen259
+\pgf@decorate@repeatstate=\count276
+\pgfdecorationsegmentamplitude=\dimen260
+\pgfdecorationsegmentlength=\dimen261
 )
-\tikz@lib@dec@box=\box40
+\tikz@lib@dec@box=\box61
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarydecorations.pathmorphing.code.tex
@@ -503,42 +509,39 @@ decorations.pathmorphing.code.tex))
 zlibrarydecorations.pathreplacing.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
 decorations.pathreplacing.code.tex))
-\pgfplots@numplots=\count119
-\pgfplots@xmin@reg=\dimen170
-\pgfplots@xmax@reg=\dimen171
-\pgfplots@ymin@reg=\dimen172
-\pgfplots@ymax@reg=\dimen173
-\pgfplots@zmin@reg=\dimen174
-\pgfplots@zmax@reg=\dimen175
+\pgfplots@numplots=\count277
+\pgfplots@xmin@reg=\dimen262
+\pgfplots@xmax@reg=\dimen263
+\pgfplots@ymin@reg=\dimen264
+\pgfplots@ymax@reg=\dimen265
+\pgfplots@zmin@reg=\dimen266
+\pgfplots@zmax@reg=\dimen267
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibraryplotmarks.code.tex
-File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+File: tikzlibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.co
 de.tex
-File: pgflibraryplotmarks.code.tex 2015/08/03 v3.0.1a (rcs-revision 1.14)
+File: pgflibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.gr
 oupplots.code.tex
-\pgfplots@group@current@plot=\count120
-\pgfplots@group@current@row=\count121
-\pgfplots@group@current@column=\count122
+\pgfplots@group@current@plot=\count278
+\pgfplots@group@current@row=\count279
+\pgfplots@group@current@column=\count280
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.9)
+File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
-Package: fancyvrb 2008/02/07
-
-Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
-<2008/02/07> (tvz)
-\FV@CodeLineNo=\count123
-\FV@InFile=\read2
-\FV@TabBox=\box41
-\c@FancyVerbLine=\count124
-\FV@StepNumber=\count125
+Package: fancyvrb 2020/01/13 v3.5 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count281
+\FV@InFile=\read3
+\FV@TabBox=\box62
+\c@FancyVerbLine=\count282
+\FV@StepNumber=\count283
 \FV@OutFile=\write4
 )
 (/usr/share/texlive/texmf-dist/tex/latex/forloop/forloop.sty
@@ -563,12 +566,13 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks37
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2017/09/02 v2.17a AMS math features
-\@mathmargin=\skip52
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip58
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -577,52 +581,52 @@ Package: amstext 2000/06/29 v2.01 AMS text
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks38
-\ex@=\dimen176
+\ex@=\dimen268
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen177
+\pmbraise@=\dimen269
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count126
-LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count127
-\leftroot@=\count128
-LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count129
-\DOTSCASE@=\count130
-LaTeX Info: Redefining \ldots on input line 472.
-LaTeX Info: Redefining \dots on input line 475.
-LaTeX Info: Redefining \cdots on input line 596.
-\Mathstrutbox@=\box42
-\strutbox@=\box43
-\big@size=\dimen178
-LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count131
-\c@MaxMatrixCols=\count132
-\dotsspace@=\muskip11
-\c@parentequation=\count133
-\dspbrk@lvl=\count134
+\inf@bad=\count284
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count285
+\leftroot@=\count286
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count287
+\DOTSCASE@=\count288
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box63
+\strutbox@=\box64
+\big@size=\dimen270
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count289
+\c@MaxMatrixCols=\count290
+\dotsspace@=\muskip17
+\c@parentequation=\count291
+\dspbrk@lvl=\count292
 \tag@help=\toks39
-\row@=\count135
-\column@=\count136
-\maxfields@=\count137
+\row@=\count293
+\column@=\count294
+\maxfields@=\count295
 \andhelp@=\toks40
-\eqnshift@=\dimen179
-\alignsep@=\dimen180
-\tagshift@=\dimen181
-\tagwidth@=\dimen182
-\totwidth@=\dimen183
-\lineht@=\dimen184
+\eqnshift@=\dimen271
+\alignsep@=\dimen272
+\tagshift@=\dimen273
+\tagwidth@=\dimen274
+\totwidth@=\dimen275
+\lineht@=\dimen276
 \@envbody=\toks41
-\multlinegap=\skip53
-\multlinetaggap=\skip54
+\multlinegap=\skip59
+\multlinetaggap=\skip60
 \mathdisplay@stack=\toks42
-LaTeX Info: Redefining \[ on input line 2817.
-LaTeX Info: Redefining \] on input line 2818.
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2017/10/31 v2.20.4
@@ -631,29 +635,29 @@ Package: amsthm 2017/10/31 v2.20.4
 \thm@headfont=\toks45
 \thm@notefont=\toks46
 \thm@headpunct=\toks47
-\thm@preskip=\skip55
-\thm@postskip=\skip56
-\thm@headsep=\skip57
+\thm@preskip=\skip61
+\thm@postskip=\skip62
+\thm@headsep=\skip63
 \dth@everypar=\toks48
 )
 (/usr/share/texlive/texmf-dist/tex/latex/xifthen/xifthen.sty
 Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count138
-\calc@Bcount=\count139
-\calc@Adimen=\dimen185
-\calc@Bdimen=\dimen186
-\calc@Askip=\skip58
-\calc@Bskip=\skip59
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count296
+\calc@Bcount=\count297
+\calc@Adimen=\dimen277
+\calc@Bdimen=\dimen278
+\calc@Askip=\skip64
+\calc@Bskip=\skip65
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count140
-\calc@Cskip=\skip60
+\calc@Ccount=\count298
+\calc@Cskip=\skip66
 )
 (/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
-Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/multido/multido.sty
 Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
@@ -661,36 +665,36 @@ Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
 
 (/usr/share/texlive/texmf-dist/tex/generic/multido/multido.tex
  v1.42, 2010/05/14 <tvz>
-\multido@count=\count141
-\multidocount=\count142
+\multido@count=\count299
+\multidocount=\count300
 \multido@stuff=\toks49
 )
 File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count143
-\lst@gtempboxa=\box44
+\lst@mode=\count301
+\lst@gtempboxa=\box65
 \lst@token=\toks50
-\lst@length=\count144
-\lst@currlwidth=\dimen187
-\lst@column=\count145
-\lst@pos=\count146
-\lst@lostspace=\dimen188
-\lst@width=\dimen189
-\lst@newlines=\count147
-\lst@lineno=\count148
-\lst@maxwidth=\dimen190
+\lst@length=\count302
+\lst@currlwidth=\dimen279
+\lst@column=\count303
+\lst@pos=\count304
+\lst@lostspace=\dimen280
+\lst@width=\dimen281
+\lst@newlines=\count305
+\lst@lineno=\count306
+\lst@maxwidth=\dimen282
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count149
-\lst@skipnumbers=\count150
-\lst@framebox=\box45
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count307
+\lst@skipnumbers=\count308
+\lst@framebox=\box66
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2015/06/04 1.6 listings configuration
+File: listings.cfg 2019/09/10 1.8c listings configuration
 ))
-Package: listings 2015/06/04 1.6 (Carsten Heinz)
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
 
 (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
@@ -700,74 +704,61 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks51
 \XKV@tempa@toks=\toks52
 )
-\XKV@depth=\count151
+\XKV@depth=\count309
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write5
 
 Excluding comment 'comment')
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-))))
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)))
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/refcount.sty
-Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
-)
-\c@section@level=\count152
-LaTeX Info: Redefining \ref on input line 355.
-LaTeX Info: Redefining \pageref on input line 355.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
-Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 ))
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+\c@section@level=\count310
+LaTeX Info: Redefining \ref on input line 356.
+LaTeX Info: Redefining \pageref on input line 356.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf.sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
 )
-Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
 
 Package epstopdf Warning: Drivers other than `pdftex' and `luatex' are not supp
 orted.
@@ -775,88 +766,81 @@ orted.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/libraries/tikzlibrar
 yexternal.code.tex
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zexternalshared.code.tex))
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
-
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
-Package hobsub Info: Skipping package `infwarerr' (already loaded).
-Package hobsub Info: Skipping package `ltxcmds' (already loaded).
-Package hobsub Info: Skipping package `ifluatex' (already loaded).
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
-Package hobsub Info: Skipping package `ifpdf' (already loaded).
-Package hobsub Info: Skipping package `etexcmds' (already loaded).
-Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
-Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
-Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
-Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
-Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-Package hobsub Info: Skipping package `hobsub' (already loaded).
-Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
-Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
-Package: xcolor-patch 2016/05/16 xcolor patch
-Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
-Package atveryend Info: \enddocument detected (standard20110627).
-Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
-Package hobsub Info: Skipping package `refcount' (already loaded).
-Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
-Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-)
-\@linkdim=\dimen191
-\Hy@linkcounter=\count153
-\Hy@pagecounter=\count154
+\@linkdim=\dimen283
+\Hy@linkcounter=\count311
+\Hy@pagecounter=\count312
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count155
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
-File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 4383.
-Package hyperref Info: Hyper figures OFF on input line 4509.
-Package hyperref Info: Link nesting OFF on input line 4514.
-Package hyperref Info: Hyper index ON on input line 4517.
-Package hyperref Info: Plain pages OFF on input line 4524.
-Package hyperref Info: Backreferencing OFF on input line 4529.
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count313
+\pdfmajorversion=\count314
+Package hyperref Info: Option `colorlinks' set `true' on input line 4421.
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count156
-LaTeX Info: Redefining \url on input line 5115.
-\XeTeXLinkMargin=\dimen192
-\Fld@menulength=\count157
-\Field@Width=\dimen193
-\Fld@charsize=\dimen194
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count315
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen284
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count316
+\Field@Width=\dimen285
+\Fld@charsize=\dimen286
 \Field@toks=\toks53
-Package hyperref Info: Hyper figures OFF on input line 6369.
-Package hyperref Info: Link nesting OFF on input line 6374.
-Package hyperref Info: Hyper index ON on input line 6377.
-Package hyperref Info: backreferencing OFF on input line 6384.
-Package hyperref Info: Link coloring ON on input line 6387.
-Package hyperref Info: Link coloring with OCG OFF on input line 6394.
-Package hyperref Info: PDF/A mode OFF on input line 6399.
-LaTeX Info: Redefining \ref on input line 6439.
-LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count158
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring ON on input line 6448.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count317
 
 
 Package hyperref Message: Stopped early.
@@ -864,10 +848,10 @@ Package hyperref Message: Stopped early.
 )
 Package hyperref Info: Driver: htex4ht.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/htex4ht.def
-File: htex4ht.def 2018/02/06 v6.86b Hyperref driver for TeX4ht
+File: htex4ht.def 2020/01/14 v7.00d Hyperref driver for TeX4ht
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.sty
-version 2018-02-11-15:01
+version 2019-03-18-15:24
 Package: tex4ht 
 --------------------------------------
 --- Note --- for _ at preamble, use the command line option `early_'
@@ -877,46 +861,48 @@ Package: tex4ht
 --------------------------------------
 \tmp:toks=\toks54
 ))
-\c@theorem=\count159
-\c@algorithm=\count160
-\c@axiom=\count161
-\c@claim=\count162
-\c@conclusion=\count163
-\c@condition=\count164
-\c@conjecture=\count165
-\c@corollary=\count166
-\c@criterion=\count167
-\c@definition=\count168
-\c@example=\count169
-\c@fact=\count170
-\c@lemma=\count171
-\c@formula=\count172
-\c@idea=\count173
-\c@notation=\count174
-\c@model=\count175
-\c@observation=\count176
-\c@proposition=\count177
-\c@paradox=\count178
-\c@procedure=\count179
-\c@remark=\count180
-\c@summary=\count181
-\c@template=\count182
-\c@warning=\count183
-\c@Iteration@probCnt=\count184
-\c@problem=\count185
-\c@problem@Depth=\count186
-\c@hintLevel=\count187
-\c@titlenumber=\count188
-\c@sectiontitlenumber=\count189
+\c@theorem=\count318
+\c@algorithm=\count319
+\c@axiom=\count320
+\c@claim=\count321
+\c@conclusion=\count322
+\c@condition=\count323
+\c@conjecture=\count324
+\c@corollary=\count325
+\c@criterion=\count326
+\c@definition=\count327
+\c@example=\count328
+\c@fact=\count329
+\c@lemma=\count330
+\c@formula=\count331
+\c@idea=\count332
+\c@notation=\count333
+\c@model=\count334
+\c@observation=\count335
+\c@proposition=\count336
+\c@paradox=\count337
+\c@procedure=\count338
+\c@remark=\count339
+\c@summary=\count340
+\c@template=\count341
+\c@warning=\count342
+\c@Iteration@probCnt=\count343
+\c@problem=\count344
+\c@problem@Depth=\count345
+\c@hintLevel=\count346
+\c@titlenumber=\count347
+\c@sectiontitlenumber=\count348
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht
-l.21 --- TeX4ht warning --- \usepackage{tex4ht} again? ---
-l.30 --- TeX4ht warning --- if \RequirePackage[tex4ht]{hyperref} or \usepackage
+version 2019-12-19-14:27
+
+l.23 --- TeX4ht warning --- \usepackage{tex4ht} again? ---
+l.32 --- TeX4ht warning --- if \RequirePackage[tex4ht]{hyperref} or \usepackage
 [tex4ht]{hyperref} was used try instead, repectively, \RequirePackage{hyperref}
  or \usepackage{hyperref} ---
 ) (/home/auxwsl/texmf/tex/latex/ximeraLatex/ximeraLatex/ximera.cfg
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
-version 2017-05-09-09:21
+version 2018-12-30-09:29
 --------------------------------------
 --- Note --- for additional information, use the command line option `info'
 --------------------------------------
@@ -925,21 +911,21 @@ version 2017-05-09-09:21
  TeX4ht info is available in the log file 
 ::::::::::::::::::::::::::::::::::::::::::
 ) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.sty
-version 2018-02-11-15:01
+version 2019-03-18-15:24
 
 --- needs --- tex4ht firstActivity ---
-\tmp:cnt=\count190
+\tmp:cnt=\count349
 \openout15 = `firstActivity.tmp'.
 
 (./firstActivity.tmp)
-\tmp:dim=\skip61
+\tmp:dim=\skip67
  (./firstActivity.xref)
 \:refout=\write6
 \openout6 = `firstActivity.xref'.
 
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 --------------------------------------
 --- Note --- to remove the <?xml version=...?> processing instruction use the c
 ommand line option `no-VERSION'
@@ -950,7 +936,7 @@ DOCTYPE'
 --------------------------------------
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 )
 --------------------------------------
 --- Note --- for marking of the base font, use the command line option `fonts+'
@@ -970,7 +956,7 @@ version 2017-03-30-16:04
 --------------------------------------
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 --------------------------------------
 --- Note --- to ignore CSS font decoration, use the `NoFonts' command line opti
 on
@@ -1010,7 +996,7 @@ on `imgdir:.../'
 --------------------------------------
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 )
 \:tokwrite=\toks55
 \:tokpage=\toks56
@@ -1028,13 +1014,13 @@ version 2017-03-30-16:04
 
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/latex.4ht
-version 2018-01-12-14:38
+version 2019-08-26-14:22
 LaTeX Info: Redefining \_ on input line 168.
 --------------------------------------
 --- Note --- for links into captions, instead of float heads, use the command l
@@ -1042,13 +1028,13 @@ ine option `refcaption'
 --------------------------------------
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 --------------------------------------
 --- Note --- For mini tocs immediately aftter the header use the command line o
 ption `minitoc<'
@@ -1088,7 +1074,7 @@ style="width:\HColWidth"}}
 --------------------------------------
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 --------------------------------------
 --- Note --- for pictorial eqnarray, use the command line option `pic-eqnarray'
 
@@ -1109,67 +1095,68 @@ he command line option `pic-m+' (not safe!!)
 --------------------------------------
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/fontmath.4ht
-version 2009-05-21-09:32
+version 2018-11-06-15:55
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/array.4ht
 version 2009-05-21-09:32
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 --------------------------------------
 --- Note --- for pictorial array, use the command line option `pic-array'
 --------------------------------------
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/color.4ht
-version 2009-05-21-09:32
-
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/colortbl.4ht
-version 2016-12-14-16:54
+version 2019-11-22-14:08
 
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2019-12-19-14:27
+)
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/home/auxwsl/texmf/tex/latex/ximeraLatex/ximeraLatex/ximera.4ht
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
 \MT@toks=\toks57
-\MT@count=\count191
-LaTeX Info: Redefining \textls on input line 793.
-\MT@outer@kern=\dimen195
-LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
-\MT@listname@count=\count192
+\MT@count=\count350
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen287
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count351
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2018/01/14 v2.7a Definitions specific to pdftex (RS)
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
 
-LaTeX Info: Redefining \lsstyle on input line 913.
-LaTeX Info: Redefining \lslig on input line 913.
-\MT@outer@space=\skip62
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip68
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
 ))
-\c@identification=\count193
+\c@identification=\count352
 
 
 /home/auxwsl/texmf/tex/latex/ximeraLatex/ximeraLatex/ximera.4ht:69: LaTeX Error
@@ -1197,8 +1184,8 @@ l.71 \ConfigureQuestionEnv{shuffle}{shuffle}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-\c@imagealt=\count194
-\c@choiceId=\count195
+\c@imagealt=\count353
+\c@choiceId=\count354
 /home/auxwsl/texmf/tex/latex/ximeraLatex/ximeraLatex/ximera.4ht:234: Illegal pa
 rameter number in definition of \desmos.
 <to be read again> 
@@ -1230,16 +1217,14 @@ You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/article.4ht
-version 2009-05-21-09:32
-
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 --------------------------------------
 --- Note --- for automatic sectioning pagination, use the command line option `
 1', `2', `3', '4', '5', '6', or '7'
@@ -1254,90 +1239,97 @@ index=2)
 --------------------------------------
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/enumitem.4ht
 version 2009-05-21-09:32
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/titlesec.4ht
-version 2014-07-14-17:09
+version 2019-01-05-15:17
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/titling.4ht
+version 2019-07-06-14:23
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/url.4ht
 version 2009-05-21-09:32
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 --------------------------------------
 --- Note --- for URL encoding within href use the command line option `url-enc'
 
 --------------------------------------
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/xcolor.4ht
-version 2017-04-28-08:47
+version 2019-04-09-10:06
 
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/color.4ht
-version 2009-05-21-09:32
-)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/color.4ht)
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/dvips.4ht
 version 2009-05-21-09:32
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/pgf.4ht
 version 2009-05-21-09:32
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/everyshi.4ht
 version 2009-05-21-09:32
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/graphicx.4ht
-version 2017-10-21-16:16
+version 2018-10-01-14:24
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/graphics.4ht
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 --------------------------------------
 --- Note --- if included graphics are of degraded quality, try the command line
  options `graphics-num' or `graphics-'. The `num' should provide the density of
@@ -1349,137 +1341,135 @@ en bounding box is unavailable try `Gin-dim+'; neither is recommended
 --------------------------------------
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/fancyvrb.4ht
-version 2009-05-21-09:32
-
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/ifthen.4ht
 version 2009-05-21-09:32
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amssymb.4ht
 version 2009-05-21-09:32
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsfonts.4ht
 version 2009-05-21-09:32
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsmath.4ht
-version 2009-05-21-09:32
-\tmp:muskip=\muskip12
+version 2019-12-29-14:17
+\tmp:muskip=\muskip18
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amstext.4ht
 version 2009-05-21-09:32
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsbsy.4ht
 version 2009-05-21-09:32
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsopn.4ht
 version 2009-05-21-09:32
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsthm.4ht
 version 2009-05-21-09:32
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/listings.4ht
-version 2017-04-22-16:03
+version 2020-02-13-13:43
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 --------------------------------------
 --- Note --- to ensure proper alignments use fixed size fonts (see listings.dtx
 )
 --------------------------------------
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/nameref.4ht
-version 2017-11-27-09:16
+version 2019-12-23-13:36
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/hyperref.4ht
-version 2016-01-12-16:05
+version 2019-09-14-15:17
 LaTeX Info: Redefining \autoref on input line 95.
-\Hy@SectionHShift=\skip63
+\Hy@SectionHShift=\skip69
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/pd1enc.4ht
 version 2009-05-21-09:32
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2018-02-21-09:31
+version 2020-02-14-14:21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
+version 2019-12-16-15:21
 ))
 runsystem(sed -i "/@/d" firstActivity.jax)...executed.
 
@@ -1488,16 +1478,34 @@ runsystem(sed -i "s/##\\([0-9]\\)/#\\1/g" firstActivity.jax)...executed.
 
 l.53 --- TeX4ht warning --- \Configure{verbatiminput}? ---
 \eqtoks=\toks58
-(./firstActivity.oc) (./firstActivity.aux)
+/home/auxwsl/texmf/tex/latex/ximeraLatex/ximeraLatex/ximera.cfg:125: Extra \fi.
+l.125   \fi
+           
+I'm ignoring this; it doesn't match any \if.
+
+(./firstActivity.oc)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2020-02-03 L3 backend support: dvips
+\l__pdf_internal_box=\box67
+\g__pdf_backend_object_int=\count355
+\l__pdf_backend_content_box=\box68
+\l__pdf_backend_model_box=\box69
+\g__pdf_backend_annotation_int=\count356
+\g__pdf_backend_link_int=\count357
+\g__pdf_backend_link_sf_int=\count358
+)
+(./firstActivity.aux)
 \openout1 = `firstActivity.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 158.
 LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 158.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 158.
 LaTeX Font Info:    ... okay on input line 158.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 158.
 LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 158.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 158.
+LaTeX Font Info:    ... okay on input line 158.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 158.
 LaTeX Font Info:    ... okay on input line 158.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 158.
 LaTeX Font Info:    ... okay on input line 158.
@@ -1508,12 +1516,12 @@ LaTeX Font Info:    ... okay on input line 158.
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
-ick labels; missing features). Consider writing \pgfplotsset{compat=1.15} into 
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into 
 your preamble.
  on input line 158.
 
-\c@lstlisting=\count196
-\AtBeginShipoutBox=\box46
+\c@lstlisting=\count359
+\AtBeginShipoutBox=\box70
 Package hyperref Info: Link coloring ON on input line 158.
 LaTeX Info: Redefining \ref on input line 158.
 LaTeX Info: Redefining \pageref on input line 158.
@@ -1568,20 +1576,22 @@ or  <return>  to continue without it.
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 8.
- [2]
+ [2
+
+]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 8.
  (./firstActivity.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 8.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 8.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 8.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 8.
  ) 
 Here is how much of TeX's memory you used:
- 34604 strings out of 492983
- 764351 string characters out of 6134922
- 1087141 words of memory out of 5000000
- 37427 multiletter control sequences out of 15000+600000
- 3834 words of font info for 16 fonts, out of 8000000 for 9000
+ 36190 strings out of 481240
+ 793364 string characters out of 5920403
+ 1291251 words of memory out of 5000000
+ 50683 multiletter control sequences out of 15000+600000
+ 532532 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,5n,98p,1252b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,5n,102p,1252b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on firstActivity.dvi (2 pages, 3704 bytes).
+Output written on firstActivity.dvi (2 pages, 3800 bytes).
